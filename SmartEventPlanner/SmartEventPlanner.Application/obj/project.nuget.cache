@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JHT8qkKAw8c=",
+  "dgSpecHash": "OcZhkHpkKGKk1d93EWs4XU7rTJEXfd/3WG4+0dxJ7Y0iLOsnBi/PkrtU4ZaO7MrlzBaPMEv4aXZV3fnZZ2YfEQ==",
   "success": true,
   "projectFilePath": "/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/SmartEventPlanner.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/aditya/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/aditya/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/aditya/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/aditya/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
