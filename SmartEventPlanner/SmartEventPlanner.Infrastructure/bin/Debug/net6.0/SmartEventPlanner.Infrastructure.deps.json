@@ -266,7 +266,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "SmartEventPlanner.Application/1.0.0": {
         "runtime": {
-          "SmartEventPlanner.Application.dll": {}
+          "SmartEventPlanner.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

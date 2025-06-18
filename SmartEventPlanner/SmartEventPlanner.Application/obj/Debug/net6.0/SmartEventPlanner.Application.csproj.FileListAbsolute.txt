@@ -9,4 +9,4 @@
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Debug/net6.0/refint/SmartEventPlanner.Application.dll
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Debug/net6.0/SmartEventPlanner.Application.pdb
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Debug/net6.0/ref/SmartEventPlanner.Application.dll
-/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Debug/net6.0/SmartEventPlanner.Application.csproj.AssemblyReference.cache
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Debug/net6.0/SmartEventPlanner.Application.sourcelink.json

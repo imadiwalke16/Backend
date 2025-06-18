@@ -14,4 +14,5 @@
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/obj/Debug/net6.0/ref/SmartEventPlanner.Infrastructure.dll
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/bin/Debug/net6.0/SmartEventPlanner.Infrastructure.runtimeconfig.json
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/obj/Debug/net6.0/SmartEventPlanner.Infrastructure.genruntimeconfig.cache
-/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/obj/Debug/net6.0/SmartEventPlanner.Infrastructure.csproj.CopyComplete
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/obj/Debug/net6.0/SmartEventPlanner.Infrastructure.sourcelink.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/obj/Debug/net6.0/SmartEve.9EC9FF65.Up2Date

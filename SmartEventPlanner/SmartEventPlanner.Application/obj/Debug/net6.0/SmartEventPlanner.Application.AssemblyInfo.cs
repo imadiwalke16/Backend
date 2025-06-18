@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartEventPlanner.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1452395fa450db8797394a1cc28b407caef8b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartEventPlanner.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartEventPlanner.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

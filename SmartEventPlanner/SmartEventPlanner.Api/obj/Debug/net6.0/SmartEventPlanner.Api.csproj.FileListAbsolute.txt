@@ -53,4 +53,8 @@
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/ref/SmartEventPlanner.Api.dll
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/bin/Debug/net6.0/Humanizer.dll
 /Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
-/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/SmartEventPlanner.Api.csproj.CopyComplete
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/bin/Debug/net6.0/SmartEventPlanner.Api.staticwebassets.endpoints.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/SmartEventPlanner.Api.sourcelink.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/staticwebassets/msbuild.SmartEventPlanner.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Api/obj/Debug/net6.0/SmartEve.8A811F99.Up2Date

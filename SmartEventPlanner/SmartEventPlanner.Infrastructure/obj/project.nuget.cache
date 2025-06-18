@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HPKeQ6oeA2uQznA4+MfqsHTJhrZ0nIF92jyzoJp2PmkOwQl6/NVQ5Fi+j2GvaKT93JoL69YbI+WD+ERdRT6aJg==",
+  "dgSpecHash": "+wlRUnHMJvY=",
   "success": true,
   "projectFilePath": "/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Infrastructure/SmartEventPlanner.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -28,8 +28,8 @@
     "/Users/aditya/.nuget/packages/system.collections.immutable/6.0.1/system.collections.immutable.6.0.1.nupkg.sha512",
     "/Users/aditya/.nuget/packages/system.diagnostics.diagnosticsource/6.0.2/system.diagnostics.diagnosticsource.6.0.2.nupkg.sha512",
     "/Users/aditya/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/aditya/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/aditya/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "/Users/aditya/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/aditya/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
