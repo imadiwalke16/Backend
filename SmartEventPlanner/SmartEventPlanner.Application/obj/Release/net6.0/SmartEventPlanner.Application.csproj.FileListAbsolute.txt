@@ -1,0 +1,12 @@
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/bin/Release/net6.0/SmartEventPlanner.Application.deps.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/bin/Release/net6.0/SmartEventPlanner.Application.dll
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/bin/Release/net6.0/SmartEventPlanner.Application.pdb
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.AssemblyInfoInputs.cache
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.AssemblyInfo.cs
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.csproj.CoreCompileInputs.cache
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.sourcelink.json
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.dll
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/refint/SmartEventPlanner.Application.dll
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/SmartEventPlanner.Application.pdb
+/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/obj/Release/net6.0/ref/SmartEventPlanner.Application.dll
