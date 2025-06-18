@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eLmxLyPfhm/yTuMoZOLPeXxwmYIcQ+E7vtQMPL4dIBw=",
+  "Source": "SmartEventPlanner.Api",
+  "BasePath": "_content/SmartEventPlanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

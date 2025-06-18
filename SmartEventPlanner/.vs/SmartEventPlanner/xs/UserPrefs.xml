@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{25E05CC7-8683-4337-81C8-7653A009456F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SmartEventPlanner.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartEventPlanner.Api/Program.cs">
+    <Files>
+      <File FileName="SmartEventPlanner.Application/DTOs/WeatherResponseDto.cs" Line="10" Column="2" />
+      <File FileName="SmartEventPlanner.Application/DTOs/CreateEventDto.cs" Line="10" Column="2" />
+      <File FileName="SmartEventPlanner.Application/Domain/Entities/WeatherData..cs" Line="13" Column="2" />
+      <File FileName="SmartEventPlanner.Application/Domain/Entities/Event.cs" Line="14" Column="2" />
+      <File FileName="SmartEventPlanner.Application/Interfaces/IWeatherService.cs" Line="9" Column="2" />
+      <File FileName="SmartEventPlanner.Infrastructure/Data/ApplicationDbContext.cs" Line="25" Column="2" />
+      <File FileName="SmartEventPlanner.Api/Controllers/EventsController.cs" Line="60" Column="1" />
+      <File FileName="SmartEventPlanner.Api/Program.cs" Line="12" Column="44" />
+      <File FileName="SmartEventPlanner.Infrastructure/Services/WeatherService.cs" Line="77" Column="1" />
+      <File FileName="SmartEventPlanner.Application/Services/EventService.cs" Line="2" Column="48" />
+      <File FileName="SmartEventPlanner.Api/appsettings.json" Line="11" Column="40" />
+      <File FileName="SmartEventPlanner.Application/Interfaces/IEventRepository.cs" Line="9" Column="49" />
+      <File FileName="SmartEventPlanner.Application/Interfaces/IEventService.cs" Line="5" Column="2" />
+      <File FileName="SmartEventPlanner.Infrastructure/Repositories/EventRepository.cs" Line="43" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartEventPlanner" expanded="True">
+            <Node name="SmartEventPlanner.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="SmartEventPlanner.Application" expanded="True">
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="DTOs" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="SmartEventPlanner.Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

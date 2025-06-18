@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHT8qkKAw8c=",
+  "success": true,
+  "projectFilePath": "/Users/aditya/Pro/SmartEventPlanner/SmartEventPlanner.Application/SmartEventPlanner.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/aditya/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/aditya/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
