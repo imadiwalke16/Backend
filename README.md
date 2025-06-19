@@ -1,3 +1,4 @@
+https://github.com/imadiwalke16/Backend
 # Smart Event Planner - Backend
 
 A .NET Core Web API backend system designed to help users plan outdoor events by analyzing weather conditions using real-time data from OpenWeatherMap. Built with scalability, maintainability, and clean architecture principles in mind.
